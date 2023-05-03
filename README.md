@@ -20,7 +20,7 @@ We can approximately define three types of feminism: (1) difference-denying, (2)
 
 5) Are you or have been a mother?
 
-### Labels of each column
+### Labels of each column in csv file:
 
 1) answer to Q1
 
